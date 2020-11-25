@@ -1,2 +1,2 @@
 #/bin/sh
-docker run -d -p 1010:80 reverseproxy.arx.pw:latest
+docker run -p 443:443 reverseproxy.arx.pw:latest
